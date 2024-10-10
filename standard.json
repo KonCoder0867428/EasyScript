@@ -1,0 +1,15 @@
+{
+    "theme": {
+        "string": {
+            "red":"0",
+            "green":"255",
+            "blue":"0"
+        },
+
+        "function": {
+            "red":"0",
+            "green":"0",
+            "red":"0"
+        }
+    }
+}
