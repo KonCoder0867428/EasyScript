@@ -14,3 +14,4 @@ KonCoder0867428 : Owner
 
 Note: You need C# to develop with us because this is the language that this scripting language is made in C# and optionally Discord and JSON for coding custom themes. Although you need discord to chat with me and the group, JSON is only required to code custom themes, JSON is built-in any system so don't worry much about JSON if you want to code custom themes.
 
+Discord: https://discord.gg/3brbejvDwW
